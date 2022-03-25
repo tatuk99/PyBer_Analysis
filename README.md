@@ -6,5 +6,8 @@ This analysis was created in order to analyze ride-sharing data by city type (Ur
 
 ## Results
 
+The results of this analysis are as follows:
+![PyBer by city type summary](Analysis/PyBer_fare_summary_by_city_type.png)
+
 
 ## Summary
